@@ -6,7 +6,5 @@
 	- Modified some details in the content
 ### Pull #2 [ruyisdk-test/ruyisdk-eclipse-plugins-test#2](https://github.com/ruyisdk-test/ruyisdk-eclipse-plugins-test/pull/2) 
 - Improved the test case report of eclipse-plugin
-	- RuyiSDK Management
-	- News
-	- Package Management
-	- Virtual Environment
+	- Added use cases
+	- Added images corresponding to each use case
